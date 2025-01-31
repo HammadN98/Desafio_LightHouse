@@ -5,9 +5,13 @@ Este projeto tem como objetivo prever valores de acomodações para aluguéis te
 
 ## Perguntas de Negócio
 1. Supondo que uma pessoa esteja pensando em investir em um apartamento para alugar na plataforma, onde seria mais indicada a compra?
-2. O número mínimo de noites e a disponibilidade ao longo do ano interferem no preço?
-3. Existe algum padrão no texto do nome do local para lugares de mais alto valor?
-
+     Para investimento em um apratamento para alugar, com base nos dados, seria mais indicado em **Staten Island**. Pois possui o terceiro maior preco medio das acomodacoes, tambem conta com uma qauntidade de acomodacoes regsitradas muito menor que Manhttan e Brooklyn, ou seja teremos menos concorrentes. Porem como ponto negativo, os concorrentes ja intaladas tem uma grande disponibilidade de dias para serem alugados.
+   
+3. O número mínimo de noites e a disponibilidade ao longo do ano interferem no preço?
+   As duas variaveis nao impactuam no preco, ja que possuem uma correlacao abaixo de 0.1.
+      
+5. Existe algum padrão no texto do nome do local para lugares de mais alto valor?
+   Os apartamento de mais alto valor, sao provavelmente, com vista para o Central Park, ou contem luxury/vilage no nome.
 
 ## Etapas do Projeto
 ### 1. Análise Exploratória de Dados (EDA)
